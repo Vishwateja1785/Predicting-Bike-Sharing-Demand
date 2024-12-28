@@ -1,4 +1,4 @@
-# Predicting-Bike-Sharing-Demand
+# Predicting Bike Sharing Demand
 
 ## Project Overview
 This project focuses on developing machine learning models to predict bike rental demand based on various temporal and environmental factors. The goal is to accurately forecast the number of bike rentals at any given time, considering variables such as weather conditions, time of day, and day of the week.
